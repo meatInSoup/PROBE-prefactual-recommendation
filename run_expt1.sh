@@ -1,0 +1,1 @@
+python run_expt.py -e 1 --datasets german -clf mlp --methods probe reup_graph face --num-proc 32 --seed 101 -uc

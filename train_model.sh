@@ -1,0 +1,1 @@
+python train_model.py --clf mlp --data gmc --num-proc 32
